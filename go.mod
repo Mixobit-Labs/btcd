@@ -1,4 +1,4 @@
-module github.com/btcsuite/btcd
+module btcd
 
 require (
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.1
